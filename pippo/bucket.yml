@@ -1,0 +1,5 @@
+flows:
+  480f232b-a193-4d46-a298-84178815086b: {ver: 1, file: pippoflow.snapshot, comments: '',
+    author: 'CN=admin, OU=NIFI', created: 1618697818583, flowName: pippoflow, flowDesc: ''}
+layoutVer: 1
+bucketId: f24cced8-e983-402c-a2ee-79a24fb12255
