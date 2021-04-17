@@ -1,0 +1,5 @@
+flows:
+  a9cda6c7-b7a3-463f-b5d5-9af660955a38: {ver: 1, file: Provalo.snapshot, comments: '',
+    author: 'CN=admin, OU=NIFI', created: 1618662934406, flowName: Provalo, flowDesc: ''}
+layoutVer: 1
+bucketId: 3140f970-4830-4a15-bf86-efd4fe1ee37d
