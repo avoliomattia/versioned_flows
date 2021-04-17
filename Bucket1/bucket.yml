@@ -1,5 +1,0 @@
-flows:
-  5518f9ff-d672-4996-9934-6a33c5848a50: {ver: 1, file: Flow1.snapshot, comments: '',
-    author: 'CN=admin, OU=NIFI', created: 1614171481506, flowName: Flow1, flowDesc: ''}
-layoutVer: 1
-bucketId: 93fc38d3-d39b-4c24-be58-ef302d8ab9bc
