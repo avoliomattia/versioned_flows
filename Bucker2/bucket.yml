@@ -1,5 +1,0 @@
-flows:
-  b20f129b-0022-44b2-a058-fcbb5af5c473: {ver: 1, file: Flow3.snapshot, comments: '',
-    author: 'CN=admin, OU=NIFI', created: 1614171808589, flowName: Flow3, flowDesc: ''}
-layoutVer: 1
-bucketId: bd64fdcc-e534-410e-b92f-41620f39db50
