@@ -1,6 +1,8 @@
 flows:
   5771ec63-1806-4e40-8ee6-9cdf458f5137: {ver: 1, file: provaflow2.snapshot, comments: '',
     author: 'CN=admin, OU=NIFI', created: 1618663264589, flowName: provaflow2, flowDesc: ''}
+  3b06fa00-03bc-4a10-8a96-3183861af1c3: {ver: 1, file: provalo3.snapshot, comments: '',
+    author: 'CN=admin, OU=NIFI', created: 1618696806404, flowName: provalo3, flowDesc: ''}
   a9cda6c7-b7a3-463f-b5d5-9af660955a38: {ver: 1, file: Provalo.snapshot, comments: '',
     author: 'CN=admin, OU=NIFI', created: 1618662934406, flowName: Provalo, flowDesc: ''}
 layoutVer: 1
