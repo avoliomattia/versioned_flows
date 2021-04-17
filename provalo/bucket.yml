@@ -1,0 +1,5 @@
+flows:
+  30939a6d-fc80-4c65-a923-b4cb29a0713b: {ver: 1, file: provami1.snapshot, comments: '',
+    author: 'CN=admin, OU=NIFI', created: 1618662412108, flowName: provami1, flowDesc: ''}
+layoutVer: 1
+bucketId: 2af81960-51d8-41c4-8763-43131723a4bb
