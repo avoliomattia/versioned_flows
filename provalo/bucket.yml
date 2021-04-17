@@ -1,0 +1,5 @@
+flows:
+  18200b3c-b8bc-4e4f-bcf7-5bad3d738eb1: {ver: 1, file: erd.snapshot, comments: '',
+    author: 'CN=admin, OU=NIFI', created: 1618662629174, flowName: erd, flowDesc: ''}
+layoutVer: 1
+bucketId: 2af81960-51d8-41c4-8763-43131723a4bb
