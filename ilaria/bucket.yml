@@ -1,0 +1,5 @@
+flows:
+  7f2b7d87-13e5-4ef9-a746-b07898e09c2a: {ver: 1, file: ilariflow.snapshot, comments: '',
+    author: 'CN=admin, OU=NIFI', created: 1618760537818, flowName: ilariflow, flowDesc: ''}
+layoutVer: 1
+bucketId: 9bfbc93c-2b5d-46af-8d8b-9be7465448dd
