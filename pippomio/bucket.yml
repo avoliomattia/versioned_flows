@@ -1,0 +1,5 @@
+flows:
+  73d1f75d-9cb4-4d00-8307-6e4e07494e9b: {ver: 1, file: nonso.snapshot, comments: '',
+    author: 'CN=admin, OU=NIFI', created: 1618753032625, flowName: nonso, flowDesc: ''}
+layoutVer: 1
+bucketId: 5f25353c-6ed3-4c7a-a2e8-fa447e100365
